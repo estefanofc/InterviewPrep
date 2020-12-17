@@ -1,6 +1,5 @@
 package SherlockAndTheValidString;
 
-import java.util.Set;
 import java.util.HashSet;
 
 public class Sherlock {
